@@ -1,1 +1,64 @@
-site_name: My Docs
+site_name: BGE Lesson Files
+
+nav:
+    - Home: 'index.md'
+    - Unit 1 - Software Design and Development:
+      - SDD/index.md
+      - Development Methodologies: 'SDD/01-Development-Methodologies.md'
+      - Analysis: 'SDD/02-Analysis.md'
+      - Design: 'SDD/03-Design.md'
+      - Software Implementation: 'SDD/04-Software-Implementation.md'
+    - Unit 2 - Software Implementation:
+      - SI/index.md
+      - Input and Output: 'SI/01-Input-and-Output.md'
+      - Variables and Data Types: 'SI/02-Variables-and-Data-Types.md'
+      - Simple Conditional Statements: 'SI/03-Simple-Conditional-Statements.md'
+      - Complex Conditional Statements: 'SI/04-Complex-Conditional-Statements.md'
+      - Fixed Loops (for): 'SI/05-Fixed-Loops-(for).md'
+      - Conditional Loops (while): 'SI/06-Conditional-Loops-(while).md'
+      - Pre-defined Functions: 'SI/07-Pre-defined-Functions.md'
+      #- Coding Practice: 'SI/Retrival-Practice.md'
+    - Unit 3 - Computer Systems:
+      - CS/index.md
+    - Unit 4 - Database Design and Development:
+      - DDD/index.md
+    #- Code Practice: 'Python-Retrival-Practice/index.md'
+    #- Extension Tasks: 'Program-Extension-Tasks/index.md'
+
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+theme:
+  name: material
+  font:
+    text: Quicksand
+  palette: 
+    - scheme: slate
+      toggle:
+       icon: material/weather-sunny
+       name: Dark mode
+      primary: green
+      accent: deep purple
+
+    - scheme: default
+      toggle:
+       icon: material/weather-night
+       name: Light mode
+      primary: blue
+      accent: deep orange
