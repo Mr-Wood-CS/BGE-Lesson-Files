@@ -2,7 +2,8 @@ site_name: S2 Computing Science
 
 nav:
     - Home: 'index.md'
-    - term 1:
+    - Term 1:
+        - Term-1/index.md
     - Term 2:
       - Term-2/index.md
       - Turing:
