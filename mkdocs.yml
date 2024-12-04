@@ -2,10 +2,10 @@ site_name: BGE Lesson Files
 
 nav:
     - Home: 'index.md'
-    - Term 2 - Game Design:
-      - SDD/index.md
+    - Term 2:
+      - Term-2/index.md
       - Turing:
-          - Maze Escape: 'SDD/02-Analysis.md'
+          - Maze Escape: 'Term-2/02-Coin-Catcher.md'
       - Hopper: 
           - Space Invaders: 'SDD/04-Software-Implementation.md'
 
