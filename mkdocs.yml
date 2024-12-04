@@ -2,6 +2,7 @@ site_name: BGE Lesson Files
 
 nav:
     - Home: 'index.md'
+    - term 1:
     - Term 2:
       - Term-2/index.md
       - Turing:
