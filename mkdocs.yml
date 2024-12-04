@@ -4,6 +4,9 @@ nav:
     - Home: 'index.md'
     - Term 1 - Web Design & Development:
         #- Term-1/index.md
+        - Turing:
+        - Hopper:
+            - Space Invaders: 'Term-1/02-Hopper/01-Space-Invaders.md'
     - Term 2 - Game Design Principles:
       #- Term-2/index.md
       - Turing:
