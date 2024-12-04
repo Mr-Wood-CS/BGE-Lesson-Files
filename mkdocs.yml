@@ -4,11 +4,10 @@ nav:
     - Home: 'index.md'
     - Term 2 - Game Design:
       - SDD/index.md
-      - Development Methodologies: 'SDD/01-Development-Methodologies.md'
-      - Analysis: 'SDD/02-Analysis.md'
-      - Design: 'SDD/03-Design.md'
-      - Software Implementation: 'SDD/04-Software-Implementation.md'
-
+      - Turing:
+          - Maze Escape: 'SDD/02-Analysis.md'
+      - Hopper: 
+          - Space INvaders: 'SDD/04-Software-Implementation.md'
 
 markdown_extensions:
   - admonition
