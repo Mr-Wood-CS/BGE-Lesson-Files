@@ -7,7 +7,7 @@ nav:
       - Turing:
           - Maze Escape: 'SDD/02-Analysis.md'
       - Hopper: 
-          - Space INvaders: 'SDD/04-Software-Implementation.md'
+          - Space Invaders: 'SDD/04-Software-Implementation.md'
 
 markdown_extensions:
   - admonition
