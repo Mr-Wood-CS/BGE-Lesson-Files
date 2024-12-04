@@ -5,7 +5,7 @@ nav:
     - Term 2:
       - Term-2/index.md
       - Turing:
-          - Maze Escape: 'Term-2/02-Coin-Catcher.md'
+          - Maze Escape: 'Term-2/01-Turing/02-Coin-Catcher.md'
       - Hopper: 
           - Space Invaders: 'SDD/04-Software-Implementation.md'
 
