@@ -1,2 +1,2 @@
-# Game Design with Makecode Arcade
+# Game Design
 
